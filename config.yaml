@@ -1,0 +1,9 @@
+max_lr: 6e-4
+min_lr: 6e-5
+warmup_steps: 715
+max_steps: 19073
+total_size: 524288
+batch_size: 64
+seed: 1234
+debug: False
+precision: "bf16"
